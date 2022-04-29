@@ -1,0 +1,15 @@
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\bin\Debug\net5.0\HospitalFinderEntities.deps.json
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\bin\Debug\net5.0\HospitalFinderEntities.dll
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\bin\Debug\net5.0\ref\HospitalFinderEntities.dll
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\bin\Debug\net5.0\HospitalFinderEntities.pdb
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.AssemblyInfoInputs.cache
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.AssemblyInfo.cs
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.dll
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\ref\HospitalFinderEntities.dll
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.pdb
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\bin\Debug\net5.0\HospitalFinderEntities.runtimeconfig.json
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\bin\Debug\net5.0\HospitalFinderEntities.runtimeconfig.dev.json
+C:\Users\90553\source\repos\HospitalSearch\HospitalFinderEntities\obj\Debug\net5.0\HospitalFinderEntities.genruntimeconfig.cache
